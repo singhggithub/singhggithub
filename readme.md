@@ -11,7 +11,7 @@ I'm **Gaurav Singh**, a passionate Cyber Security Engineer and Software Develope
 
 - 🔭 I’m currently working on enhancing my skills in Cyber Security and Software Development, and working on various projects including setting up a Cyber Security Homelab and developing an Azure Cloud Detection Lab using Sentinel.
 - 🌱 I’m currently learning advanced penetration testing techniques, improving my skills in Python for security scripting, and exploring new software development frameworks.
-- 👨‍💻 Check out my portfolio: [Gaurav's Portfolio](https://rohanpatankar.netlify.app)
+- 👨‍💻 Check out my portfolio: [Gaurav's Portfolio](https://netlify.app)
 - 💬 Ask me about Cyber Security, Penetration Testing, SOC Analysis, Python scripting, and Software Development.
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1xlfDxs_-gmvO3Tg3OcMm3nC46A6yY3YO/view?usp=sharing)
 - 😄 Pronouns: He/Him
