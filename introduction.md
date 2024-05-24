@@ -74,6 +74,10 @@ Virtual Internship | July 2023 - Sept 2023
 - Data Engineering and Machine Learning using Spark (Coursera)
 - Introduction to Big Data with Spark and Hadoop (Coursera)
 
+- [![LinkedIn](https://example.com/linkedin-logo.png)](https://www.linkedin.com/in/gaurav-singh-cybersecurity/)
+[![GitHub](https://example.com/github-logo.png)](https://github.com/yourusername)
+
+
 ---
 
 Feel free to reach out or check out my projects. I'm always eager to collaborate and learn new things in the field of Cyber Security and Software Development!
