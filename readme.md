@@ -13,7 +13,7 @@ I'm **Gaurav Singh**, a passionate Cyber Security Engineer and Software Develope
 - 🌱 I’m currently learning advanced penetration testing techniques, improving my skills in Python for security scripting, and exploring new software development frameworks.
 - 👨‍💻 Check out my portfolio: [Gaurav's Portfolio](https://netlify.app)
 - 💬 Ask me about Cyber Security, Penetration Testing, SOC Analysis, Python scripting, and Software Development.
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1xlfDxs_-gmvO3Tg3OcMm3nC46A6yY3YO/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://Gaurav_cse_cyber.hackerresume.io/3faaa82b-c119-4d78-8da9-50b3ae36d740)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started my journey in Cyber Security with a simple curiosity about how networks work and now it's my passion to make the digital world a safer place. Additionally, I love developing software solutions that solve real-world problems.
 
